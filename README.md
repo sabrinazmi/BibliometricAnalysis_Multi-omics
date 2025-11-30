@@ -6,4 +6,4 @@ This repository contains data and code for the bibliometric analysis of multi-om
 - **Title**: Recent Trends on Multi-omics Studies in Cancer Research: A Bibliometric Study  
 - **Journal**: *International Journal of Innovative Computing*  
 - **Authors**: Nur Sabrina Azmi & Weng Howe Chan  
-- **DOI**: To be shared upon publication
+- **DOI**: https://doi.org/10.11113/ijic.v15n2.540
